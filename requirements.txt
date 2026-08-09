@@ -9,3 +9,4 @@ Pillow==12.3.0
 email-validator==2.1.0
 itsdangerous==2.1.2
 gunicorn
+psycopg2
